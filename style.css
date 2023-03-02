@@ -2,20 +2,16 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url{'https://cdn.wallpapersafari.com/26/54/25JNIp.jpg'};
+    background-image: url('./css/imggg/download.jfif');
     background-repeat: no-repeat;
-    background-position : center;
-    
-
+    background-position: center;
+    background-size: cover;
 }
 h1{
     text-transform: uppercase;
 }
 .project{
     text-transform:lowercase;
-}
-*{
-    color:green;
 }
 #project1{
 
